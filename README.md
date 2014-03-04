@@ -1,4 +1,4 @@
-bas64.fs
+base64.fs
 -----------
 
 A Portable Base64 encoder implementation in Forth
